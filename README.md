@@ -1,13 +1,13 @@
 # 🌳 Drzewo binarne w C++
 
- > Prosty program w języku **C++**, który tworzy i wyświetla **drzewo binarne wyszukiwania (BST)**.
+ > Prosty program w języku **C++**, który tworzy i wyświetla **drzewo binarne**.
 
 ---
 
  ## ⚙️ Funkcje
 
  - ➕ Dodawanie liczb do drzewa
-- 🌳 Automatyczne rozmieszczanie elementów według zasad BST
+- 🌳 Automatyczne rozmieszczanie elementów
 - 🔢 Wyświetlanie elementów w kolejności rosnącej
 - 🖥️ Graficzne wyświetlanie struktury drzewa w konsoli
 
